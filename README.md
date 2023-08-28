@@ -11,5 +11,10 @@ Bookmarking useful resources
 ## AI
 - [(EN) 2023, Generative AI's carbon footprint: Focusing on data centers, not just power grids](https://www.96layers.ai/p/generative-ai-carbon-emissions-and)
 
+## Geoscience
+- Book, EN, First steps in seismic interpretation by Donald A. Herron
+- Book, EN, Elements of 3D Seismology by Chris Liner
+- Book, EN, 3-D Seismic Interpretation by M. Bacon, R. Simm, T. Redshaw
+
 # Misc
 - [(EN) 2023, Putting the “You” in CPU](https://cpu.land/)
