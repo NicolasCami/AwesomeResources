@@ -4,29 +4,31 @@ Grouped by theme, marked as:
 - :link:      website
 - :radio:     podcast
 - :blue_book: book
+- :gem:       really awesome resource
 
 ## Climat
-- :link:      :fr: 2023 [CNED formation to learn climat basics](https://climat.cned.fr/formations/), about 8 hours.
+- :link:            :fr: [CNED formation to learn climat basics](https://climat.cned.fr/formations/), about 8 hours of course - 2023
 
 ## Green IT
-- :link:      :fr: 2023 [Référenciel d'écoconception du gouvernement](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
+- :link:            :fr: [Référenciel d'écoconception du gouvernement](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) - 2023
     - [Résumé disponible en français](green-it/referentiel-general-ecoconception.md)
-- :link:      :fr: 2023 [Référenciel d'écoconception du club Green IT](https://club.greenit.fr/referentiel.html)
-- :radio:     :fr: L'octet vert by Tristan Nitot
+- :link:            :fr: [Référenciel d'écoconception du club Green IT](https://club.greenit.fr/referentiel.html) - 2023
+- :radio:           :fr: L'octet vert by Tristan Nitot
 
 ## Dev
-- :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/)
-- :radio:     :fr: If This Then Dev by Bruno Soulez
+- :link:            :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
+- :gem: :link:      :uk: [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) by Andrej Karpathy - 2023
+- :radio:           :fr: If This Then Dev by Bruno Soulez
 
 ## AI
-- :link:      :uk: 2023 [Generative AI's carbon footprint: Focusing on data centers, not just power grids](https://www.96layers.ai/p/generative-ai-carbon-emissions-and)
+- :link:            :uk: [Generative AI's carbon footprint: Focusing on data centers, not just power grids](https://www.96layers.ai/p/generative-ai-carbon-emissions-and) - 2023
 
 ## Geoscience
-- :link:      :uk: [Agile*](https://agilescientific.com/)
-- :link:      :uk: [Awesome open geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
-- :blue_book: :uk: First steps in seismic interpretation by Donald A. Herron
-- :blue_book: :uk: Elements of 3D Seismology by Chris Liner
-- :blue_book: :uk: 3-D Seismic Interpretation by M. Bacon, R. Simm, T. Redshaw
+- :link:            :uk: [Agile*](https://agilescientific.com/)
+- :link:            :uk: [Awesome open geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
+- :blue_book:       :uk: First steps in seismic interpretation by Donald A. Herron
+- :blue_book:       :uk: Elements of 3D Seismology by Chris Liner
+- :blue_book:       :uk: 3-D Seismic Interpretation by M. Bacon, R. Simm, T. Redshaw
 
 # Misc
-- :link:      :uk: 2023 [Putting the “You” in CPU](https://cpu.land/)
+- :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
