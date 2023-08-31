@@ -2,18 +2,18 @@
 
 URL du document original : https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/
 
-## Stratégie
+## Stratégie
 
 ## Spécifications
 
-## Architecture
+## Architecture
 
-## UX/UI
+## UX/UI
 
-## Contenus
+## Contenus
 
-## Frontend
+## Frontend
 
-## Backend
+## Backend
 
-## Hébergement
+## Hébergement
