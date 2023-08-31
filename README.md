@@ -6,6 +6,7 @@ Bookmarking useful resources
 
 ## Green IT
 - :link:      :fr: 2023 [Référenciel d'écoconception du gouvernement](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
+    - [Résumé disponible en français](green-it/referentiel-general-ecoconception.md)
 - :link:      :fr: 2023 [Référenciel d'écoconception du club Green IT](https://club.greenit.fr/referentiel.html)
 
 ## AI
