@@ -17,10 +17,10 @@ Grouped by theme, marked as:
 
 ## Dev
 - :link:            :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
-- :gem: :link:      :uk: [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) by Andrej Karpathy - 2023
 - :radio:           :fr: If This Then Dev by Bruno Soulez
 
 ## AI
+- :gem: :link:      :uk: [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) by Andrej Karpathy - 2023
 - :link:            :uk: [Generative AI's carbon footprint: Focusing on data centers, not just power grids](https://www.96layers.ai/p/generative-ai-carbon-emissions-and) - 2023
 
 ## Geoscience
