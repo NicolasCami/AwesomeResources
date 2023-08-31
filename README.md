@@ -1,4 +1,4 @@
-# AwesomeResources
+# Personal Awesome Resources
 Listing of useful resources on various topics.
 Grouped by theme, marked as:
 - :link:      website
