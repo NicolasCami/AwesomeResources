@@ -16,7 +16,7 @@ Grouped by theme, marked as:
 - :radio:           :fr: L'octet vert by Tristan Nitot
 
 ## Dev
-- :link:            :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
+- :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
 - :radio:           :fr: If This Then Dev by Bruno Soulez
 
