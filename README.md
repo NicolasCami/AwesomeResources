@@ -13,6 +13,7 @@ Bookmarking useful resources
 
 ## Geoscience
 - Website, EN, [Agile*](https://agilescientific.com/)
+- Website, EN, [Awesome open geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
 - Book, EN, First steps in seismic interpretation by Donald A. Herron
 - Book, EN, Elements of 3D Seismology by Chris Liner
 - Book, EN, 3-D Seismic Interpretation by M. Bacon, R. Simm, T. Redshaw
