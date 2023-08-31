@@ -8,6 +8,7 @@ Bookmarking useful resources
 - :link:      :fr: 2023 [Référenciel d'écoconception du gouvernement](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
     - [Résumé disponible en français](green-it/referentiel-general-ecoconception.md)
 - :link:      :fr: 2023 [Référenciel d'écoconception du club Green IT](https://club.greenit.fr/referentiel.html)
+- :sound:     :fr: L'octet vert by Tristan Nitot
 
 ## AI
 - :link:      :uk: 2023 [Generative AI's carbon footprint: Focusing on data centers, not just power grids](https://www.96layers.ai/p/generative-ai-carbon-emissions-and)
