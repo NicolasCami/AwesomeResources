@@ -20,6 +20,9 @@ Grouped by theme, marked as:
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
 - :radio:           :fr: If This Then Dev by Bruno Soulez
 
+## Cyber
+- :link:            :uk: [USASOC Identity Management](https://www.soc.mil/IdM/publications/IdMpubs.html)
+
 ## AI
 - :gem: :link:      :uk: [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) by Andrej Karpathy - 2023
 - :link:            :uk: [Generative AI's carbon footprint: Focusing on data centers, not just power grids](https://www.96layers.ai/p/generative-ai-carbon-emissions-and) - 2023
