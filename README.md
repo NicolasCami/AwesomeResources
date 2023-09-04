@@ -11,7 +11,7 @@ Grouped by theme, marked as:
 
 ## Green IT
 - :link:            :fr: [Référenciel d'écoconception du gouvernement](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) - 2023
-    - [Résumé disponible en français](green-it/referentiel-general-ecoconception.md)
+    - [Résumé](green-it/referentiel-general-ecoconception.md)
 - :link:            :fr: [Référenciel d'écoconception du club Green IT](https://club.greenit.fr/referentiel.html) - 2023
 - :radio:           :fr: L'octet vert by Tristan Nitot
 
@@ -19,6 +19,9 @@ Grouped by theme, marked as:
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
 - :radio:           :fr: If This Then Dev by Bruno Soulez
+
+## Open Source
+- :gem: :link:      :uk: [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 ## Cyber
 - :link:            :uk: [USASOC Identity Management](https://www.soc.mil/IdM/publications/IdMpubs.html)
