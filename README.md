@@ -12,6 +12,8 @@ Grouped by theme, marked as:
 
 ## Climat
 - :link:            :fr: [CNED formation to learn climat basics](https://climat.cned.fr/formations/), about 8 hours of course - 2023
+- :link:            :uk: [Climate Q&A](https://huggingface.co/spaces/Ekimetrics/climate-question-answering)
+- :link:            :fr: [Impact CO2](https://datagir.ademe.fr/apps/impact-co2/)
 
 ## Cyber
 - :link:            :uk: [USASOC Identity Management](https://www.soc.mil/IdM/publications/IdMpubs.html)
