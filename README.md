@@ -33,6 +33,7 @@ Grouped by theme, marked as:
 
 ## Open Source
 - :gem: :link:      :uk: [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- :link:            :uk: [Explore open source projects and jump in!](https://up-for-grabs.net/#/)
 
 ## Software Development
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
