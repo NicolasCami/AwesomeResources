@@ -19,6 +19,8 @@ Grouped by theme, marked as:
 - :link:            :uk: [USASOC Identity Management](https://www.soc.mil/IdM/publications/IdMpubs.html)
 
 ## Geoscience
+- :link:            :uk: [Geothermal Data Repository](https://gdr.openei.org/data_lakes)
+- :link:            :uk: [Geothermal Information System](https://www.geotis.de/homepage/GeotIS-Startpage)
 - :link:            :uk: [Agile*](https://agilescientific.com/)
 - :link:            :uk: [Awesome open geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
 - :blue_book:       :uk: First steps in seismic interpretation by Donald A. Herron
