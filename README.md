@@ -7,25 +7,27 @@ Grouped by theme, marked as:
 - :gem:       really awesome resource
 
 ## Artificial Intelligence
-- :gem: :link:      :uk: [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) by Andrej Karpathy - 2023
-- :link:            :uk: [Generative AI's carbon footprint: Focusing on data centers, not just power grids](https://www.96layers.ai/p/generative-ai-carbon-emissions-and) - 2023
+- :gem: :link:      :uk: [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) by Andrej Karpathy - 2023. Learn how to build a neural network and a large language model from scratch.
+- :link:            :uk: [Generative AI's carbon footprint: Focusing on data centers, not just power grids](https://www.96layers.ai/p/generative-ai-carbon-emissions-and) - 2023. An article on the CO2-eq emissions of AI.
 
 ## Climat
-- :link:            :fr: [CNED formation to learn climat basics](https://climat.cned.fr/formations/), about 8 hours of course - 2023
-- :link:            :uk: [Climate Q&A](https://huggingface.co/spaces/Ekimetrics/climate-question-answering)
-- :link:            :fr: [Impact CO2](https://datagir.ademe.fr/apps/impact-co2/)
+- :link:            :fr: [CNED formation to learn climat basics](https://climat.cned.fr/formations/) - 2023. About 8 hours of course on climate change.
+- :link:            :uk: [Climate Q&A](https://huggingface.co/spaces/Ekimetrics/climate-question-answering). Ask questions about climate change and biodiversity to an AI-powered web application. It gives you a summary as an answer as well as sources from IPCC and IPBES.
+- :link:            :fr: [Impact CO2](https://datagir.ademe.fr/apps/impact-co2/). Funny web application to compare CO2 emissions of many things. It gives you an order of magnitude of emissions.
 
 ## Cyber
-- :link:            :uk: [USASOC Identity Management](https://www.soc.mil/IdM/publications/IdMpubs.html)
+- :link:            :uk: [USASOC Identity Management](https://www.soc.mil/IdM/publications/IdMpubs.html). How to preserve your privacy, by the U.S. Army.
 
 ## Geoscience
-- :link:            :uk: [Geothermal Data Repository](https://gdr.openei.org/data_lakes)
-- :link:            :uk: [Geothermal Information System](https://www.geotis.de/homepage/GeotIS-Startpage)
 - :link:            :uk: [Agile*](https://agilescientific.com/)
 - :link:            :uk: [Awesome open geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
 - :blue_book:       :uk: First steps in seismic interpretation by Donald A. Herron
 - :blue_book:       :uk: Elements of 3D Seismology by Chris Liner
 - :blue_book:       :uk: 3-D Seismic Interpretation by M. Bacon, R. Simm, T. Redshaw
+
+### Open Data
+- :link:            :uk: [Geothermal Data Repository](https://gdr.openei.org/data_lakes)
+- :link:            :uk: [Geothermal Information System](https://www.geotis.de/homepage/GeotIS-Startpage)
 
 ## Green IT
 - :link:            :fr: [Référenciel d'écoconception du gouvernement](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) - 2023
