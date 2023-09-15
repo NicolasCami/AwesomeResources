@@ -2,19 +2,25 @@
 
 These are personal guidelines about sofware development and engineering.
 
-## Use consistent standards to format you code
+## Code
 
-## Write readable/simple code, for humans, not for machine
+### Use consistent standards to format you code
 
-## Never put naming aside
+### Write readable/simple code, for humans, not for machine
 
-## Follow the principle of Least Surprise
+### Never put naming aside
 
-## Follow SOLID principle (especially for OOP)
+## Architecture and design
 
-## Always be humble
+### Follow the principle of Least Surprise
 
-## Don't try to solve problems you don't have. Everything comes at the right time
+### Follow SOLID principle (especially for OOP)
+
+## Mindset
+
+### Always be humble
+
+### Don't try to solve problems you don't have. Everything comes at the right time
 
 A Monolith is often fine if it's [modular](https://www.fearofoblivion.com/build-a-modular-monolith-first). For instance:
 - In 2023, Amazon Prime Video team migrated one system from Microservices to a Monolith and reduced cliud costs by 90%.
