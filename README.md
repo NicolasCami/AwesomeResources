@@ -8,7 +8,10 @@ Grouped by theme, marked as:
 
 ## Artificial Intelligence
 - :gem: :link:      :uk: [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) by Andrej Karpathy - 2023. Learn how to build a neural network and a large language model from scratch.
+
+### Carbon footprint of AI
 - :link:            :uk: [Generative AI's carbon footprint: Focusing on data centers, not just power grids](https://www.96layers.ai/p/generative-ai-carbon-emissions-and) - 2023. An article on the CO2-eq emissions of AI.
+- :link:            :uk: [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes) by MIT - 2019.
 
 ## Climat
 - :link:            :fr: [CNED formation to learn climat basics](https://climat.cned.fr/formations/) - 2023. About 8 hours of course on climate change.
