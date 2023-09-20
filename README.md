@@ -14,6 +14,7 @@ Grouped by theme, marked as:
 - :link:            :uk: [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes) by MIT - 2019.
 
 ## Climat
+- :link:            :uk: [Climate Action Fast Facts](https://www.un.org/en/climatechange/science/key-findings)
 - :link:            :fr: [CNED formation to learn climat basics](https://climat.cned.fr/formations/) - 2023. About 8 hours of course on climate change.
 - :link:            :uk: [Climate Q&A](https://huggingface.co/spaces/Ekimetrics/climate-question-answering). Ask questions about climate change and biodiversity to an AI-powered web application. It gives you a summary as an answer as well as sources from IPCC and IPBES.
 - :link:            :fr: [Impact CO2](https://datagir.ademe.fr/apps/impact-co2/). Funny web application to compare CO2 emissions of many things. It gives you an order of magnitude of emissions.
