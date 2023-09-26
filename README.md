@@ -30,6 +30,7 @@ Grouped by theme, marked as:
 - :blue_book:       :uk: 3-D Seismic Interpretation by M. Bacon, R. Simm, T. Redshaw
 
 ### Open Data
+- :link:            :fr: [Infoterre - BRGM](http://infoterre.brgm.fr/viewer/MainTileForward.do)
 - :link:            :uk: [Geothermal Data Repository](https://gdr.openei.org/data_lakes)
 - :link:            :uk: [Geothermal Information System](https://www.geotis.de/homepage/GeotIS-Startpage)
 
