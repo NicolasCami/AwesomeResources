@@ -8,12 +8,14 @@ Grouped by theme, marked as:
 
 ## Artificial Intelligence
 - :gem: :link:      :uk: [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) by Andrej Karpathy - 2023. Learn how to build a neural network and a large language model from scratch.
+- :link:            :uk: [The Machine & Deep Learning Compendium](https://oricohen.gitbook.io/machine-and-deep-learning-compendium/)
 
 ### Carbon footprint of AI
 - :link:            :uk: [Generative AI's carbon footprint: Focusing on data centers, not just power grids](https://www.96layers.ai/p/generative-ai-carbon-emissions-and) - 2023. An article on the CO2-eq emissions of AI.
 - :link:            :uk: [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes) by MIT - 2019.
 
 ## Climat
+- :link:            :uk: [A Pragmatic Guide to Climate Change](https://oliviercorradi.com/climate-change/)
 - :link:            :fr: [Climat et Anthropocene](https://climatanthropocene.com/)
 - :link:            :uk: [Climate Action Fast Facts](https://www.un.org/en/climatechange/science/key-findings)
 - :link:            :fr: [CNED formation to learn climat basics](https://climat.cned.fr/formations/) - 2023. About 8 hours of course on climate change.
@@ -50,6 +52,9 @@ Grouped by theme, marked as:
     - [You want modules, not microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) - 2023
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
+- :link:            :uk: [Loup Vaillant](https://loup-vaillant.fr/)
+- :link:            :uk: [Irrational Exuberance](https://lethain.com/) by Will Larson
+    - [Solving the Engineering Strategy crisis](https://lethain.com/solving-the-engineering-strategy-crisis/) - 2023
 - :radio:           :fr: If This Then Dev by Bruno Soulez
 
 ## Misc
