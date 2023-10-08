@@ -13,8 +13,10 @@ Grouped by theme, marked as:
 ### Carbon footprint of AI
 - :link:            :uk: [Generative AI's carbon footprint: Focusing on data centers, not just power grids](https://www.96layers.ai/p/generative-ai-carbon-emissions-and) - 2023. An article on the CO2-eq emissions of AI.
 - :link:            :uk: [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes) by MIT - 2019.
+- :link:            :fr: [La bataille de l'IA](https://batailledelia.org/)
 
 ## Climat
+- :link:            :fr: [Centre de ressources pour l'adaptation au changement climatique](https://www.adaptation-changement-climatique.gouv.fr/)
 - :link:            :uk: [A Pragmatic Guide to Climate Change](https://oliviercorradi.com/climate-change/)
 - :link:            :fr: [Climat et Anthropocene](https://climatanthropocene.com/)
 - :link:            :uk: [Climate Action Fast Facts](https://www.un.org/en/climatechange/science/key-findings)
@@ -41,6 +43,7 @@ Grouped by theme, marked as:
 - :link:            :fr: [Référenciel d'écoconception du gouvernement](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) - 2023
     - [Résumé](green-it/referentiel-general-ecoconception.md)
 - :link:            :fr: [Référenciel d'écoconception du club Green IT](https://club.greenit.fr/referentiel.html) - 2023
+- :link:            :fr: [Académie numérique responsable](https://www.academie-nr.org/)
 - :radio:           :fr: L'octet vert by Tristan Nitot
 
 ## Open Source
