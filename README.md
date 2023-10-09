@@ -55,6 +55,7 @@ Grouped by theme, marked as:
     - [You want modules, not microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) - 2023
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
+- :link:            :uk: [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) by Jake Lazaroff - 2023
 - :link:            :uk: [Loup Vaillant](https://loup-vaillant.fr/)
 - :link:            :uk: [Irrational Exuberance](https://lethain.com/) by Will Larson
     - [Solving the Engineering Strategy crisis](https://lethain.com/solving-the-engineering-strategy-crisis/) - 2023
