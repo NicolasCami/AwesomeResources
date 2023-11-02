@@ -16,7 +16,9 @@ Grouped by theme, marked as:
 - :link:            :fr: [La bataille de l'IA](https://batailledelia.org/)
 
 ## Climat
-- :link:            :fr: [Centre de ressources pour l'adaptation au changement climatique](https://www.adaptation-changement-climatique.gouv.fr/)
+- :link:            :uk: [Carbon Brief](https://www.carbonbrief.org/)
+  - [IEA report summary](https://www.carbonbrief.org/analysis-global-co2-emissions-could-peak-as-soon-as-2023-iea-data-reveals/)
+- :link:            :fr: [Centre de ressources pour l'adaptation au changement climatique](https://www.adaptation-changement-climatique.gouv.fr/) - 2023
 - :link:            :uk: [A Pragmatic Guide to Climate Change](https://oliviercorradi.com/climate-change/)
 - :link:            :fr: [Climat et Anthropocene](https://climatanthropocene.com/)
 - :link:            :uk: [Climate Action Fast Facts](https://www.un.org/en/climatechange/science/key-findings)
@@ -49,6 +51,7 @@ Grouped by theme, marked as:
 ## Open Source
 - :gem: :link:      :uk: [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - :link:            :uk: [Explore open source projects and jump in!](https://up-for-grabs.net/#/)
+- :link:            :uk: [Your gateway to Open Source](https://www.verto.sh/)
 
 ## Software Development
 - :gem: :link:      :uk: [Neward & Associates](http://www.newardassociates.com/)
