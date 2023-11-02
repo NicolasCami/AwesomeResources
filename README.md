@@ -17,8 +17,8 @@ Grouped by theme, marked as:
 
 ## Climat
 - :link:            :uk: [Carbon Brief](https://www.carbonbrief.org/)
-  - [IEA report summary](https://www.carbonbrief.org/analysis-global-co2-emissions-could-peak-as-soon-as-2023-iea-data-reveals/)
-- :link:            :fr: [Centre de ressources pour l'adaptation au changement climatique](https://www.adaptation-changement-climatique.gouv.fr/) - 2023
+  - [IEA report summary](https://www.carbonbrief.org/analysis-global-co2-emissions-could-peak-as-soon-as-2023-iea-data-reveals/) - 2023
+- :link:            :fr: [Centre de ressources pour l'adaptation au changement climatique](https://www.adaptation-changement-climatique.gouv.fr/)
 - :link:            :uk: [A Pragmatic Guide to Climate Change](https://oliviercorradi.com/climate-change/)
 - :link:            :fr: [Climat et Anthropocene](https://climatanthropocene.com/)
 - :link:            :uk: [Climate Action Fast Facts](https://www.un.org/en/climatechange/science/key-findings)
