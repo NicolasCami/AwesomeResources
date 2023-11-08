@@ -32,6 +32,7 @@ Grouped by theme, marked as:
 ## Geoscience
 - :link:            :uk: [Agile*](https://agilescientific.com/)
 - :link:            :uk: [Awesome open geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
+- :link:            :uk: [Awesome GIS](https://github.com/sshuair/awesome-gis)
 - :blue_book:       :uk: First steps in seismic interpretation by Donald A. Herron
 - :blue_book:       :uk: Elements of 3D Seismology by Chris Liner
 - :blue_book:       :uk: 3-D Seismic Interpretation by M. Bacon, R. Simm, T. Redshaw
