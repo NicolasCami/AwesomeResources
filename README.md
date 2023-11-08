@@ -16,9 +16,12 @@ Grouped by theme, marked as:
 - :link:            :fr: [La bataille de l'IA](https://batailledelia.org/)
 
 ## Climat
-- :link:            :uk: [Carbon Brief](https://www.carbonbrief.org/)
+- :gem: :link:      :uk: [Carbon Brief](https://www.carbonbrief.org/)
   - [IEA report summary](https://www.carbonbrief.org/analysis-global-co2-emissions-could-peak-as-soon-as-2023-iea-data-reveals/) - 2023
 - :link:            :fr: [Centre de ressources pour l'adaptation au changement climatique](https://www.adaptation-changement-climatique.gouv.fr/)
+- :link:            :fr: [Données et études statistiques Pour le changement climatique, l'énergie, l'environnement, le logement, et les transports](https://www.statistiques.developpement-durable.gouv.fr/)
+  - [Chiffres clés de l'énergie](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-energie-2023/) - 2023
+  - [Chiffres clés du climat - France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-du-climat-france-europe-et-monde-edition-2023) - 2023
 - :link:            :uk: [A Pragmatic Guide to Climate Change](https://oliviercorradi.com/climate-change/)
 - :link:            :fr: [Climat et Anthropocene](https://climatanthropocene.com/)
 - :link:            :uk: [Climate Action Fast Facts](https://www.un.org/en/climatechange/science/key-findings)
@@ -63,6 +66,8 @@ Grouped by theme, marked as:
 - :link:            :uk: [Loup Vaillant](https://loup-vaillant.fr/)
 - :link:            :uk: [Irrational Exuberance](https://lethain.com/) by Will Larson
     - [Solving the Engineering Strategy crisis](https://lethain.com/solving-the-engineering-strategy-crisis/) - 2023
+- :link:            :uk: [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) - 2023
+- :link:            :uk: [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing) - 2023
 - :radio:           :fr: If This Then Dev by Bruno Soulez
 
 ## Misc
