@@ -77,4 +77,3 @@ Grouped by theme, marked as:
 - :link:            :uk: [Every software is messy and has skeletons](https://vadimkravcenko.com/shorts/every-app-has-its-skeletons/) - 2023
 - :link:            :uk: [Data visualization mistakes](https://github.com/cxli233/FriendsDontLetFriends) - 2023
 - :link:            :uk: [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html) - 2023
-- :link:            :uk: [An interactive study of common retry methods](https://encore.dev/blog/retries) - 2023
