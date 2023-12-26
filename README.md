@@ -74,6 +74,8 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [LLM Visualization](https://bbycroft.net/llm) - 2023
+- :link:            :uk: [How Google takes the pain out of code reviews](https://read.engineerscodex.com/p/how-google-takes-the-pain-out-of) - 2023
 - :link:            :uk: [An interactive study of common retry methods](https://encore.dev/blog/retries) - 2023
 - :link:            :uk: [Every software is messy and has skeletons](https://vadimkravcenko.com/shorts/every-app-has-its-skeletons/) - 2023
 - :link:            :uk: [Data visualization mistakes](https://github.com/cxli233/FriendsDontLetFriends) - 2023
