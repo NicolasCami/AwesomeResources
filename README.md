@@ -38,6 +38,7 @@ Grouped by theme, marked as:
 - :link:            :uk: [Awesome open geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
 - :link:            :uk: [Awesome GIS](https://github.com/sshuair/awesome-gis)
 - :link:            :uk: [Jupyter Notebooks - Petrophysics](https://github.com/andymcdgeo/Petrophysics-Python-Series/tree/master)
+- :link:            :uk: [Spatial Dev Guru](https://spatial-dev.guru/)
 - :blue_book:       :uk: First steps in seismic interpretation by Donald A. Herron
 - :blue_book:       :uk: Elements of 3D Seismology by Chris Liner
 - :blue_book:       :uk: 3-D Seismic Interpretation by M. Bacon, R. Simm, T. Redshaw
@@ -46,6 +47,7 @@ Grouped by theme, marked as:
 - :link:            :fr: [Infoterre - BRGM](http://infoterre.brgm.fr/viewer/MainTileForward.do)
 - :link:            :uk: [Geothermal Data Repository](https://gdr.openei.org/data_lakes)
 - :link:            :uk: [Geothermal Information System](https://www.geotis.de/homepage/GeotIS-Startpage)
+- :link:            :uk: [Utah FORGE](https://utahforge.com/project-data-dashboard/)
 
 ## Green IT
 - :link:            :fr: [Référenciel d'écoconception du gouvernement](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) - 2023
