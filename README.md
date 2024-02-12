@@ -66,6 +66,7 @@ Grouped by theme, marked as:
     - [You want modules, not microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) - 2023
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
+- :link:            :uk: [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/) - 2024
 - :link:            :uk: [Benedict Evans](https://www.ben-evans.com/)
 - :link:            :uk: [David Heinemeier Hansson](https://world.hey.com/dhh)
 - :link:            :uk: [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) by Jake Lazaroff - 2023
@@ -78,6 +79,7 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [NCurses Disk Usage](https://dev.yorhel.nl/ncdu). `sudo apt install ncdu`
 - :link:            :uk: [LLM Visualization](https://bbycroft.net/llm) - 2023
 - :link:            :uk: [How Google takes the pain out of code reviews](https://read.engineerscodex.com/p/how-google-takes-the-pain-out-of) - 2023
 - :link:            :uk: [An interactive study of common retry methods](https://encore.dev/blog/retries) - 2023
