@@ -19,6 +19,7 @@ Grouped by theme, marked as:
 ## Climat
 - :gem: :link:      :uk: [Carbon Brief](https://www.carbonbrief.org/)
   - [IEA report summary](https://www.carbonbrief.org/analysis-global-co2-emissions-could-peak-as-soon-as-2023-iea-data-reveals/) - 2023
+- :link:            :uk: [Copernicus Interactive Climate Atlas](https://atlas.climate.copernicus.eu/atlas)
 - :link:            :fr: [Centre de ressources pour l'adaptation au changement climatique](https://www.adaptation-changement-climatique.gouv.fr/)
 - :link:            :fr: [Données et études statistiques Pour le changement climatique, l'énergie, l'environnement, le logement, et les transports](https://www.statistiques.developpement-durable.gouv.fr/)
   - [Chiffres clés de l'énergie](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-energie-2023/) - 2023
