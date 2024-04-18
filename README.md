@@ -80,6 +80,7 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [Failures, mistakes and confusion](https://blog.ignaskiela.eu/failures-mistakes-confusion.html) - 2024
 - :link:            :uk: [NCurses Disk Usage](https://dev.yorhel.nl/ncdu). `sudo apt install ncdu`
 - :link:            :uk: [LLM Visualization](https://bbycroft.net/llm) - 2023
 - :link:            :uk: [How Google takes the pain out of code reviews](https://read.engineerscodex.com/p/how-google-takes-the-pain-out-of) - 2023
