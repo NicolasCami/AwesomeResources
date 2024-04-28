@@ -68,6 +68,7 @@ Grouped by theme, marked as:
     - [You want modules, not microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) - 2023
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
+- :link:            :uk: [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html) - 2019
 - :link:            :uk: [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/) - 2024
 - :link:            :uk: [Benedict Evans](https://www.ben-evans.com/)
 - :link:            :uk: [David Heinemeier Hansson](https://world.hey.com/dhh)
@@ -81,6 +82,7 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) - 2019
 - :link:            :uk: [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/) - 2024
 - :link:            :uk: [Failures, mistakes and confusion](https://blog.ignaskiela.eu/failures-mistakes-confusion.html) - 2024
 - :link:            :uk: [NCurses Disk Usage](https://dev.yorhel.nl/ncdu). `sudo apt install ncdu`
