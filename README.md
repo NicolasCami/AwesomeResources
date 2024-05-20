@@ -19,6 +19,7 @@ Grouped by theme, marked as:
 ## Climat
 - :gem: :link:      :uk: [Carbon Brief](https://www.carbonbrief.org/)
   - [IEA report summary](https://www.carbonbrief.org/analysis-global-co2-emissions-could-peak-as-soon-as-2023-iea-data-reveals/) - 2023
+- :gem: :link:      :uk: [Atlas of Climate Change](https://factsonclimate.org/atlas)
 - :link:            :uk: [Copernicus Interactive Climate Atlas](https://atlas.climate.copernicus.eu/atlas)
   - [European state of the climate](https://climate.copernicus.eu/esotc/2023) - 2023
 - :link:            :fr: [Centre de ressources pour l'adaptation au changement climatique](https://www.adaptation-changement-climatique.gouv.fr/)
@@ -68,6 +69,8 @@ Grouped by theme, marked as:
     - [You want modules, not microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) - 2023
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
+- :link:            :uk: [Software friction](https://www.hillelwayne.com/post/software-friction/) - 2024
+- :link:            :uk: [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html) -2024
 - :link:            :uk: [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html) - 2019
 - :link:            :uk: [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/) - 2024
 - :link:            :uk: [Benedict Evans](https://www.ben-evans.com/)
@@ -82,6 +85,7 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [bun.report is Bun's new crash reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter) - 2024
 - :link:            :uk: [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) - 2019
 - :link:            :uk: [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/) - 2024
 - :link:            :uk: [Failures, mistakes and confusion](https://blog.ignaskiela.eu/failures-mistakes-confusion.html) - 2024
