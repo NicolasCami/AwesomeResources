@@ -69,6 +69,7 @@ Grouped by theme, marked as:
     - [You want modules, not microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) - 2023
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
+- :link:            :uk: [A brief history of web development. And why your framework doesn't matter.](https://gebna.gg/blog/brief-history-of-web-development) - 2024
 - :link:            :uk: [Software friction](https://www.hillelwayne.com/post/software-friction/) - 2024
 - :link:            :uk: [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html) -2024
 - :link:            :uk: [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html) - 2019
@@ -85,6 +86,8 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html) - 2024
+- :link:            :uk: [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/#once-you-get-good-at-rust-all-of-these-problems-will-go-away) - 2024
 - :link:            :uk: [bun.report is Bun's new crash reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter) - 2024
 - :link:            :uk: [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) - 2019
 - :link:            :uk: [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/) - 2024
