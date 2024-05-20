@@ -25,3 +25,7 @@ pyenv exec python -m venv default
 ### Pybind11
 
 Ligther than `Boost::Python`.
+
+## Misc
+
+- [Mojo](https://docs.modular.com/mojo/)
