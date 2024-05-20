@@ -87,6 +87,7 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [What I've Learned Building Interactive Embedding Visualizations](https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/) - 2024
 - :link:            :uk: [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html) - 2024
 - :link:            :uk: [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/#once-you-get-good-at-rust-all-of-these-problems-will-go-away) - 2024
 - :link:            :uk: [bun.report is Bun's new crash reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter) - 2024
