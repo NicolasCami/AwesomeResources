@@ -88,6 +88,7 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html) - 2024
 - :link:            :uk: [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/) - 2024
 - :link:            :uk: [What I've Learned Building Interactive Embedding Visualizations](https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/) - 2024
 - :link:            :uk: [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html) - 2024
