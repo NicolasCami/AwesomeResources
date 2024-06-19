@@ -8,6 +8,7 @@ Grouped by theme, marked as:
 
 ## Artificial Intelligence
 - :gem: :link:      :uk: [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) by Andrej Karpathy - 2023. Learn how to build a neural network and a large language model from scratch.
+- :link:            :uk: [The IA Act Game](https://www.canva.com/design/DAGF2FfogqE/QpjWW1ghhCr_GMZT_gLJ3A/view) - 2024
 - :link:            :uk: [Repo: Spreadsheet Is All You Need](https://github.com/dabochen/spreadsheet-is-all-you-need) - 2024
 - :link:            :uk: [A Grand Unified Theory of the AI Hype Cycle](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html) - 2024
 - :link:            :uk: [Large Language Model Course](https://github.com/mlabonne/llm-course/tree/main)
