@@ -91,6 +91,8 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load) - 2024
+- :link:            :uk: [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/) - 2024
 - :link:            :uk: [City In A Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/) - 2024
 - :link:            :uk: [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html) - 2024
 - :link:            :uk: [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/) - 2024
