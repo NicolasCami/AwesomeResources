@@ -80,6 +80,7 @@ Grouped by theme, marked as:
 - :link:            :uk: [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html) - 2019
 - :link:            :uk: [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/) - 2024
 - :link:            :uk: [Benedict Evans](https://www.ben-evans.com/)
+    - [Apple intelligence and AI maximalism](https://www.ben-evans.com/benedictevans/2024/06/20/apple-intelligence) - 2024
 - :link:            :uk: [David Heinemeier Hansson](https://world.hey.com/dhh)
 - :link:            :uk: [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) by Jake Lazaroff - 2023
 - :link:            :uk: [Loup Vaillant](https://loup-vaillant.fr/)
