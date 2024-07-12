@@ -72,7 +72,9 @@ Grouped by theme, marked as:
     - [You want modules, not microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) - 2023
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
+- :link:            :uk: [The Most Important Decisions are Non-Technical](https://prog21.dadgum.com/137.html) - 2012
 - :link:            :uk: [Stripe's monorepo developer environment](https://blog.nelhage.com/post/stripe-dev-environment/) - 2024
+- :link:            :uk: [Three Laws of Software Complexity](https://maheshba.bitbucket.io/blog/2024/05/08/2024-ThreeLaws.html) - 2024
 - :link:            :uk: [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html) - 2024
 - :link:            :uk: [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) - 2024
 - :link:            :uk: [Avoiding the soft delete anti-pattern](https://www.cultured.systems/2024/04/24/Soft-delete/) -2024
@@ -94,6 +96,7 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/) - 2024
 - :link:            :uk: [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load) - 2024
 - :link:            :uk: [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/) - 2024
 - :link:            :uk: [City In A Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/) - 2024
