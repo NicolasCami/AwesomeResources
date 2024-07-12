@@ -72,6 +72,7 @@ Grouped by theme, marked as:
     - [You want modules, not microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) - 2023
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
+- :link:            :uk: [Stripe's monorepo developer environment](https://blog.nelhage.com/post/stripe-dev-environment/) - 2024
 - :link:            :uk: [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) - 2024
 - :link:            :uk: [Avoiding the soft delete anti-pattern](https://www.cultured.systems/2024/04/24/Soft-delete/) -2024
 - :link:            :uk: [A brief history of web development. And why your framework doesn't matter.](https://gebna.gg/blog/brief-history-of-web-development) - 2024
