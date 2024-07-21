@@ -66,6 +66,7 @@ Grouped by theme, marked as:
 - :gem: :link:      :uk: [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - :link:            :uk: [Explore open source projects and jump in!](https://up-for-grabs.net/#/)
 - :link:            :uk: [Your gateway to Open Source](https://www.verto.sh/)
+- :link:            :uk: [So you want to compete with or replace open source](https://archive.md/ZQ8iE) - 2024
 
 ## Software Development
 - :gem: :link:      :uk: [Neward & Associates](http://www.newardassociates.com/)
@@ -97,6 +98,8 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/fr-fr/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite) - 2024
+- :link:            :uk: [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod) - 2024
 - :link:            :uk: [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/) - 2024
 - :link:            :uk: [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load) - 2024
 - :link:            :uk: [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/) - 2024
