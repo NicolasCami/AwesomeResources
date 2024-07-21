@@ -72,6 +72,7 @@ Grouped by theme, marked as:
     - [You want modules, not microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) - 2023
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
+- :link:            :uk: [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity) - 2024
 - :link:            :uk: [The Most Important Decisions are Non-Technical](https://prog21.dadgum.com/137.html) - 2012
 - :link:            :uk: [Stripe's monorepo developer environment](https://blog.nelhage.com/post/stripe-dev-environment/) - 2024
 - :link:            :uk: [Three Laws of Software Complexity](https://maheshba.bitbucket.io/blog/2024/05/08/2024-ThreeLaws.html) - 2024
