@@ -101,6 +101,7 @@ Grouped by theme, marked as:
 
 ## Misc
 - :gem: :link:      :uk: [Putting the “You” in CPU](https://cpu.land/) - 2023
+- :link:            :uk: [A friendly introduction to assembly for high-level programmers](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html) - 2024
 - :link:            :uk: [It works on my machine. Why? ](https://thoughtbot.com/blog/it-works-on-my-machine-why) - 2024
 - :link:            :uk: [The Six Dumbest Ideas in Computer Security](https://www.ranum.com/security/computer_security/editorials/dumb/) - 2024
 - :link:            :uk: [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/fr-fr/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite) - 2024
