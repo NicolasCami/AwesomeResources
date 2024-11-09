@@ -75,6 +75,7 @@ Grouped by theme, marked as:
     - [You want modules, not microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) - 2023
 - :gem: :link:      :uk: [Joel on Software](https://www.joelonsoftware.com/) by Joel Spolsky
     - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - 2002
+- :link:            :uk: [Seeing Like a Programmer (LambdaConf 2024)](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/), by Chris Krycho - 2024
 - :link:            :uk: [How to create software quality.](https://lethain.com/quality/) - 2024
 - :link:            :uk: [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - 2016
 - :link:            :uk: [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity) - 2024
