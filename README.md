@@ -38,6 +38,7 @@ Grouped by theme, marked as:
 - :link:            :fr: [CNED formation to learn climat basics](https://climat.cned.fr/formations/) - 2023. About 8 hours of course on climate change.
 - :link:            :uk: [Climate Q&A](https://huggingface.co/spaces/Ekimetrics/climate-question-answering). Ask questions about climate change and biodiversity to an AI-powered web application. It gives you a summary as an answer as well as sources from IPCC and IPBES.
 - :link:            :fr: [Impact CO2](https://datagir.ademe.fr/apps/impact-co2/). Funny web application to compare CO2 emissions of many things. It gives you an order of magnitude of emissions.
+- :link:            :fr: [Nos gestes climat](https://nosgestesclimat.fr/). Calculez votre empreinte carbone et votre empreinte eau.
 
 ## Cyber
 - :link:            :uk: [USASOC Identity Management](https://www.soc.mil/IdM/publications/IdMpubs.html). How to preserve your privacy, by the U.S. Army.
