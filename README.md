@@ -25,6 +25,7 @@ Grouped by theme, marked as:
 - :gem: :link:      :uk: [Carbon Brief](https://www.carbonbrief.org/)
   - [IEA report summary](https://www.carbonbrief.org/analysis-global-co2-emissions-could-peak-as-soon-as-2023-iea-data-reveals/) - 2023
 - :gem: :link:      :uk: [Atlas of Climate Change](https://factsonclimate.org/atlas)
+- :link:            :fr: [Comprendre les scénarios de transition 2050](https://comprendre2050.fr/)
 - :link:            :uk: [Climate Action Tracker](https://climateactiontracker.org/)
 - :link:            :uk: [Copernicus Interactive Climate Atlas](https://atlas.climate.copernicus.eu/atlas)
   - [European state of the climate](https://climate.copernicus.eu/esotc/2023) - 2023
